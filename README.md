@@ -19,7 +19,7 @@ Der Ordner "instances" enthält die zugrundeliegenden Tagesprogramme und die Cha
 ## Aufgabenstellung
 
 Der Inhalt der Seminararbeit soll die Analyse der optimierten Fertigungssequenzen unter Anwendung von Sequential Pattern Mining sein. Es ist das Ziel Fertigungsregeln abzuleiten, welche die Sequenzbildung möglichst gut abbilden.
-Die Regeln sollen damit das Expertenwissen, welches in der Realität zur Sequenzgenerierung verwendet wird quantifizieren. Die Regel können z.B in der Form von Car Sequencing Rules aufgebaut haben, jedoch auch von dieser Vorlage abweichen. Weiterer Bestandteil der Aufgabe ist die Visualisierung der Fertigungsregeln bzw. der Gemeinsamkeiten der jeweiligen Sequenzen.
+Die Regeln sollen damit das Expertenwissen, welches in der Realität zur Sequenzgenerierung verwendet wird quantifizieren. Die Regel können z.B in der Form von Car Sequencing Rules aufgebaut sein, jedoch auch von dieser Vorlage abweichen. Weiterer Bestandteil der Aufgabe ist die Visualisierung der Fertigungsregeln bzw. der Gemeinsamkeiten der jeweiligen Sequenzen.
 
 Für die Aufgabenstellung ist im Datensatz nur der Order sequences relevant.
 
