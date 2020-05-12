@@ -1,4 +1,4 @@
-## Data set for the seminar "Business Problems"
+# EN: Data set for the seminar "Business Problems"
 
 This repository contains the data set for the seminar topic "Sequential Pattern Mining: Analysis and Visualization of Production Line Sequences" at the Chair of Information Systems Research at the University of Freiburg.
 
@@ -27,7 +27,7 @@ Only the order sequences are relevant for the task in the data record.
 The implementation can be done in R or Python.
 
 
-## Datensatz für das Seminar „Business Problems“ 
+# DE: Datensatz für das Seminar „Business Problems“ 
 
 Dieses Repository enthält den Datensatz für das Seminarthema "Sequential Pattern Mining: Analysis and Visualization of Production Line Sequences" am Lehrstuhl Information Systems Research der Universität Freiburg.
 
